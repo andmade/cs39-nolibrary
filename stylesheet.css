@@ -42,7 +42,7 @@
         .ads-section {
             position: absolute;
             bottom: 50px;
-            width: 100%;
+            width: 700px;
             height: 150px;
             display: grid;
             grid-template-columns: repeat(3, 33%);
@@ -52,8 +52,8 @@
 
         .ad {
             background-color: #01295f;
-            min-height: 150px;
-            width: 80%;
+            height: 150px;
+            width: 150px;
         }
 
         .company-footer {
